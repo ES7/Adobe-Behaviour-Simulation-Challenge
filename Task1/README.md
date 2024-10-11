@@ -19,5 +19,5 @@ This repository contains my team's solution for the Mid Prep Problem Statement o
 **Test_Metrics.ipynb:** In this notebook we have used **BLEU (1-4)**, **ROUGE (1,2,L)** and **CIDEr** metrics to evaluate the model's predictions with the original captions.
 
 ## Team
-[**Ebad Sayed**]()
-[**Aaditya Jain**]()
+* [**Ebad Sayed**]() <br>
+* [**Aaditya Jain**]()
