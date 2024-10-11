@@ -1,6 +1,9 @@
 # Adobe-Behaviour-Simulation-Challenge
+This repository contains my team's solution for the Mid Prep Problem Statement of InterIIT TechMeet 13.0, **"Adobe Behaviour Simulation Challenge"** by Adobe. 
 
 ## Task 1
+
+
 
 ## Task 2
 **1. Image_Captioning.ipynb:** In this notebook we have downloaded the media files and generate caption for them using **BLIP** model.
@@ -14,3 +17,7 @@
 **Inference.ipynb:** In this notebook, using the fine tuned models we have performed predictions on the first 500 samples.
 
 **Test_Metrics.ipynb:** In this notebook we have used **BLEU (1-4)**, **ROUGE (1,2,L)** and **CIDEr** metrics to evaluate the model's predictions with the original captions.
+
+## Team
+[**Ebad Sayed**]()
+[**Aaditya Jain**]()
