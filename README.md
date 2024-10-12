@@ -9,11 +9,13 @@ This repository contains my team's solution for the Mid Prep Problem Statement o
 ## Task 1
 - **Tokenization.ipynb:** In this notebook we have tokenized the content (captions) of the given dataset using the **DistilBERT** tokenizer. <br>
 - **Bucketing.ipynb:** In this notebook we have created 7 buckets (classes) and trained the **DistilBERT** model for this classification task.
+[](Task1/Task1_diagram.png)
 
 ## Task 2
 - **FineTune.ipynb:** In this notebook we have Fine Tuned the **Bloom 7b** and **Qwen 1.5b** models using **LoRA** and **PEFT** techniques.<br>
 - **Inference.ipynb:** In this notebook, using the fine tuned models we have performed predictions on the first 500 samples.<br>
 - **Test_Metrics.ipynb:** In this notebook we have used **BLEU (1-4)**, **ROUGE (1,2,L)** and **CIDEr** metrics to evaluate the model's predictions with the original captions.<br>
+[](Task2/Task2_diagram.png)
 
 ## Team
 * [**Ebad Sayed**](https://github.com/ES7) <br>
