@@ -8,6 +8,7 @@ This repository contains my team's solution for the Mid Prep Problem Statement o
 
 ## Task 1
 - **Tokenization.ipynb:** In this notebook we have tokenized the content (captions) of the given dataset using the **DistilBERT** tokenizer. <br>
+- **Creating_Prompts.ipynb:** In this notebook we have written prompt to convert the data into more organized format for the bucketing process. <br>
 - **Bucketing.ipynb:** In this notebook we have created 7 buckets (classes) and trained the **DistilBERT** model for this classification task.
 ![](Task1/Task1_diagram.png)
 
